@@ -1,0 +1,5 @@
+<?php
+
+    $contador = 0
+
+?>
